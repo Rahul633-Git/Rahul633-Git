@@ -14,11 +14,11 @@
 
 
 <p align="left">🎯 Goals: My Goal is to become a Data analyst in a reputable Organization</p>
-<p align="left">👨‍💻 All of my projects are available at <a href="https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance" target="blank"> Portfolio.io</a> </p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance" target="_blank"> Portfolio.io</a> </p>
 
-<p align="left">📫 How to reach me:<a href="rahul633lohar@gmail.com" target="blank">📩 rahul633lohar@gmail.com</a> </p>
+<p align="left">📫 How to reach me:<a href="rahul633lohar@gmail.com" target="_blank">📩 rahul633lohar@gmail.com</a> </p>
 
-<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1fBbxW2HeVnuyRm2qUmX2BkdEqgUX4lx-/view?usp=drive_link" target="blank">📄 Resume.Pdf</a><p></p>
+<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1fBbxW2HeVnuyRm2qUmX2BkdEqgUX4lx-/view?usp=drive_link" target="_blank">📄 Resume.Pdf</a><p></p>
 
 
 
@@ -26,9 +26,9 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/rahul-lohar633" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="www.linkedin.com/in/rahul-lohar633" height="52" width="40" /></a>
   <a href="https://discord.gg/rahul_633" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="rahul_633" height="52" width="40" /></a>
-<a href="https://www.kaggle.com/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahul633lohar" height="52" width="40" alt="kaggle logo" /></a>
-<a href="https://www.hackerrank.com/profile/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahul633lohar" height="52" width="40" /></a>
-<a href="https://leetcode.com/u/rahul633lohar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahul633lohar/" height="52" width="40" /></a>
+<a href="https://www.kaggle.com/rahul633lohar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahul633lohar" height="52" width="40" alt="kaggle logo" /></a>
+<a href="https://www.hackerrank.com/profile/rahul633lohar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahul633lohar" height="52" width="40" /></a>
+<a href="https://leetcode.com/u/rahul633lohar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahul633lohar/" height="52" width="40" /></a>
 
 </div>
 
