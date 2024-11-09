@@ -24,11 +24,11 @@
 
 <h3 align="left">🌏Connect with me:</h3>
 <div align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-lohar633" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="www.linkedin.com/in/rahul-lohar633" height="52" width="40" /></a>
-  <a href="https://discord.gg/rahul_633" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="rahul_633" height="52" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahul633lohar" height="52" width="40" alt="linkedin logo" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahul633lohar" height="52" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rahul633lohar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahul633lohar/" height="52" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-lohar633" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="www.linkedin.com/in/rahul-lohar633" height="52" width="40" /></a>
+  <a href="https://discord.gg/rahul_633" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="rahul_633" height="52" width="40" /></a>
+<a href="https://www.kaggle.com/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahul633lohar" height="52" width="40" alt="kaggle logo" /></a>
+<a href="https://www.hackerrank.com/profile/rahul633lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahul633lohar" height="52" width="40" /></a>
+<a href="https://leetcode.com/u/rahul633lohar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rahul633lohar/" height="52" width="40" /></a>
 
 </div>
 
