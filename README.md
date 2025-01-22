@@ -18,7 +18,7 @@
 
 <p align="left">📫 How to reach me:<a href="rahul633lohar@gmail.com" target="_blank">📩 rahul633lohar@gmail.com</a> </p>
 
-<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1AHhDGqrVpkzy9Xg7_-kX7ffDftBtnu4h/view?usp=sharing" target="_blank">📄 Resume.Pdf</a><p></p>
+<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1Q87PnLYM0hMKTqMWPm3qNR3CQ8jVKLAd/view?usp=drive_link" target="_blank">📄 Resume.Pdf</a><p></p>
 
 
 
