@@ -14,11 +14,11 @@
 
 
 <p align="left">🎯 Goals: My Goal is to become a Data analyst in a reputable Organization</p>
-<p align="left">👨‍💻 All of my projects are available at <a href="https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance" target="_blank"> Portfolio.io</a> </p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://codebasics.io/portfolio/Rahul-Lohar" target="_blank"> Portfolio.io</a> </p>
 
 <p align="left">📫 How to reach me:<a href="rahul633lohar@gmail.com" target="_blank">📩 rahul633lohar@gmail.com</a> </p>
 
-<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1fBbxW2HeVnuyRm2qUmX2BkdEqgUX4lx-/view?usp=drive_link" target="_blank">📄 Resume.Pdf</a><p></p>
+<p align="left">📄 Know about my experiences 👉 <a href="https://drive.google.com/file/d/1AHhDGqrVpkzy9Xg7_-kX7ffDftBtnu4h/view?usp=sharing" target="_blank">📄 Resume.Pdf</a><p></p>
 
 
 
