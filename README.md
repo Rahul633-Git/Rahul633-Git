@@ -8,7 +8,7 @@ I'm a Data Analyst who loves working with data pipelines and turning raw data in
 
 ### 🛠️ Skills
 
-`SQL` `Python` `PySpark` `Databricks` `Delta Lake` `MySQL` `MongoDB` `PostgreSQL` `Power BI` `Microsoft Azure (Learning)`
+`SQL` `Python` `PySpark` `Databricks` `Delta Lake` `MySQL` `MongoDB` `PostgreSQL` `Power BI` `AWS`
 
 ---
 
